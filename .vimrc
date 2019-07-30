@@ -24,6 +24,7 @@ Plugin 'fatih/vim-go'
 Plugin 'tmhedberg/SimpylFold'
 Plugin 'tpope/vim-fugitive'
 Plugin 'davidhalter/jedi-vim'
+Plugin 'pangloss/vim-javascript'
 Plugin 'sheerun/vim-polyglot'
 " add plugins before this
 call vundle#end()
