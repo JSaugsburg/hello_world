@@ -26,6 +26,7 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'davidhalter/jedi-vim'
 Plugin 'pangloss/vim-javascript'
 Plugin 'sheerun/vim-polyglot'
+Plugin 'tpope/vim-surround'
 " add plugins before this
 call vundle#end()
 filetype plugin indent on
